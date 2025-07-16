@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics.Tracing;
 
 namespace PalindromeExercise
 {
@@ -6,7 +8,9 @@ namespace PalindromeExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+           
+
         }
     }
 }
